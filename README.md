@@ -4,7 +4,7 @@
 
 </br>
 
-**목적**: 개발 ~ 배포 과정 연습 </br>
+**목적**: springboot app build </br>
 
 **활용 기술** </br>
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
@@ -20,28 +20,22 @@
 </br>
 
 ## 설계
-CI용 프로젝트 생성 및 깃헙에 업로드.
-</br> **↓** </br>
-window에 virtualBox로 virtual machine 생성.
-</br> **↓** </br>
-ubuntu 이미지로 ubuntu 설치(가상화).
-</br> **↓** </br>
-ubuntu에 docker 설치.
-</br> **↓** </br>
-docker에 jenkins 이미지 다운로드.
-</br> **↓** </br>
-Jenkins 이미지 컨테이너화 및 실행.
-</br> **↓** </br>
-Jenkins - GitHub 연결 및 webhook 작업.
-</br> **↓** </br>
+CI용 프로젝트 생성 및 깃헙에 업로드. </br>
+window에 virtualBox로 virtual machine 생성. </br>
+ubuntu 이미지로 ubuntu 설치(가상화). </br>
+ubuntu에 docker 설치. </br>
+docker에 jenkins 이미지 다운로드. </br>
+Jenkins 이미지 컨테이너화 및 실행. </br>
+Jenkins - GitHub 연결 및 webhook 작업. </br>
 테스트.
 
 </br>
 
-## 과정 이미지
-![image](https://github.com/Painterrr/fisa240221/assets/98957340/5fd8ec03-8c13-4994-9644-f36001062972)
+## 시스템 아키텍쳐
+![image](https://github.com/Painterrr/fisa240221/assets/98957340/9bf3183a-501f-4179-9c8e-8e8fe12d3e94)
 
-## 결과
+
+## 이점
 프로젝트의 변동사항을 자동으로 통합할 수 있다. </br>
 이를 통해 실수를 줄이고 배포과정을 단순화 할 수 있다. </br>
 
