@@ -6,7 +6,7 @@
 
 **목적**: 개발 ~ 배포 과정 연습 </br>
 
-**활용 기술**
+**활용 기술** </br>
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
@@ -17,14 +17,21 @@
 </br>
 
 ## 과정 개요
-1. CI용 프로젝트 생성 및 깃헙에 업로드.
-2. window에 virtualBox로 virtual machine 생성.
-3. ubuntu 이미지로 ubuntu 설치(가상화).
-4. ubuntu에 docker 설치.
-5. docker에 jenkins 이미지 다운로드.
-6. Jenkins 이미지 컨테이너화 및 실행.
-7. Jenkins - GitHub 연결 및 webhook 작업.
-8. 테스트.
+CI용 프로젝트 생성 및 깃헙에 업로드.
+</br> **↓** </br>
+window에 virtualBox로 virtual machine 생성.
+</br> **↓** </br>
+ubuntu 이미지로 ubuntu 설치(가상화).
+</br> **↓** </br>
+ubuntu에 docker 설치.
+</br> **↓** </br>
+docker에 jenkins 이미지 다운로드.
+</br> **↓** </br>
+Jenkins 이미지 컨테이너화 및 실행.
+</br> **↓** </br>
+Jenkins - GitHub 연결 및 webhook 작업.
+</br> **↓** </br>
+테스트.
 
 </br>
 
