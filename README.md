@@ -19,7 +19,7 @@
 
 </br>
 
-## 과정 개요
+## 설계
 CI용 프로젝트 생성 및 깃헙에 업로드.
 </br> **↓** </br>
 window에 virtualBox로 virtual machine 생성.
@@ -40,5 +40,9 @@ Jenkins - GitHub 연결 및 webhook 작업.
 
 ## 과정 이미지
 ![image](https://github.com/Painterrr/fisa240221/assets/98957340/5fd8ec03-8c13-4994-9644-f36001062972)
+
+## 결과
+프로젝트의 변동사항을 자동으로 통합할 수 있다. </br>
+이를 통해 실수를 줄이고 배포과정을 단순화 할 수 있다. </br>
 
 </div> 
