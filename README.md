@@ -35,8 +35,9 @@ Jenkins - GitHub 연결 및 webhook 작업. </br>
 ![image](https://github.com/Painterrr/fisa240221/assets/98957340/9bf3183a-501f-4179-9c8e-8e8fe12d3e94)
 
 
-## 이점
+## 결론
 프로젝트의 변동사항을 자동으로 통합할 수 있다. </br>
 이를 통해 실수를 줄이고 배포과정을 단순화 할 수 있다. </br>
+자동화 최고!
 
 </div> 
